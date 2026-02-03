@@ -1,0 +1,1 @@
+just a simple stock price predicting program, we still getting there innit.
