@@ -41,4 +41,3 @@ if __name__ == "__main__":
 
     print("Historical prices:", historical_prices)
     print("Predicted prices:", predictions)
-    print(f"Days Predicted: {days_to_predict} cool")
